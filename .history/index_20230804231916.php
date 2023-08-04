@@ -144,6 +144,7 @@
                             4 Children
                         </span>
                       </div>
+                      
                       <div class="rating mb-4">
                         <span class="badge rounded-pill bg-light">
                         <h6 class="mb-1">Rating</h6>
@@ -151,6 +152,15 @@
                         <i class="bi bi-star-fill text-warning"></i>
                         <i class="bi bi-star-fill text-warning"></i>
                         <i class="bi bi-star-fill text-warning"></i>
+                        </span>
+                      </div>
+                      <div class="guests mb-54">
+                        <h6 class="mb-1">Guests</h6>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            5 Adults
+                        </span>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            4 Children
                         </span>
                       </div>
                       <div class="d-flex justify-content-evenly mb-2">

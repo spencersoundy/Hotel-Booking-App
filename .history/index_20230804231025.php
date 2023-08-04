@@ -135,13 +135,16 @@
                             Room Heater
                         </span>
                       </div>
-                       <div class="guests mb-54">
+                      <div class="guests mb-54">
                         <h6 class="mb-1">Guests</h6>
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             5 Adults
                         </span>
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             4 Children
+                        </span>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            Room Heater
                         </span>
                       </div>
                       <div class="rating mb-4">
@@ -195,15 +198,6 @@
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             Room Heater
                         </span>
-                         <div class="guests mb-54">
-                        <h6 class="mb-1">Guests</h6>
-                        <span class="badge rounded-pill bg-light text-dark text-wrap">
-                            5 Adults
-                        </span>
-                        <span class="badge rounded-pill bg-light text-dark text-wrap">
-                            4 Children
-                        </span>
-                      </div>
                       </div>
                       <div class="rating mb-4">
                         <span class="badge rounded-pill bg-light">
@@ -256,15 +250,6 @@
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             Room Heater
                         </span>
-                         <div class="guests mb-54">
-                        <h6 class="mb-1">Guests</h6>
-                        <span class="badge rounded-pill bg-light text-dark text-wrap">
-                            5 Adults
-                        </span>
-                        <span class="badge rounded-pill bg-light text-dark text-wrap">
-                            4 Children
-                        </span>
-                      </div>
                       </div>
                       <div class="rating mb-4">
                         <span class="badge rounded-pill bg-light">
