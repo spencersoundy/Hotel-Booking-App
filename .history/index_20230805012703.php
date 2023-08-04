@@ -195,7 +195,7 @@
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             Room Heater
                         </span>
-                         <div class="guests mb-4">
+                         <div class="guests mb-54">
                         <h6 class="mb-1">Guests</h6>
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             5 Adults
@@ -242,7 +242,7 @@
                             3 Sofas
                         </span>
                       </div>
-                      <div class="facilities mb-4">
+                      <div class="facilities mb-54">
                         <h6 class="mb-1">Facilities</h6>
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             Wifi
@@ -256,7 +256,7 @@
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             Room Heater
                         </span>
-                         <div class="guests mb-4">
+                         <div class="guests mb-54">
                         <h6 class="mb-1">Guests</h6>
                         <span class="badge rounded-pill bg-light text-dark text-wrap">
                             5 Adults
