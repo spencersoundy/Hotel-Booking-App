@@ -1,0 +1,6 @@
+<?php
+
+$hname = 'localhost';
+$unamw
+
+?>
