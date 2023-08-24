@@ -4,7 +4,7 @@
 
 define('SITE_URL','http://127.0.0.1/hotelbookingapp/');
 define('ABOUT_IMG_PATH',SITE_URL.'images/about/');
-define('CAROUSEL_IMG_PATH',SITE_URL.'images/carousel/');
+define('ABOUT_IMG_PATH',SITE_URL.'images/about/');
 
 
 // Backend upload process needs this data

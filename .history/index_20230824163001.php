@@ -37,12 +37,31 @@
        {
            $path = CAROUSEL_IMG_PATH;
            echo <<<data
+           $path$row[image]
            <div class="swiper-slide">
-            <img src="$path$row[image]" class="w-100 d-block" />
-           </div>
+            <img src="images/carousel/img_15372.png" class="w-100 d-block" />
+            </div>
            data;
        }
       ?>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_15372.png" class="w-100 d-block" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_40905.png" class="w-100 d-block" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_55677.png" class="w-100 d-block" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_62045.png" class="w-100 d-block" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_93127.png" class="w-100 d-block" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel/img_99736.png" class="w-100 d-block" />
+      </div>
     </div>
   </div>
 </div>

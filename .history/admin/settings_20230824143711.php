@@ -265,7 +265,7 @@ adminLogin();
 
 
 <?php require('inc/scripts.php'); ?>
-<script src="script/settings.js"></script>
+<script></script>
 
 
 

@@ -27,7 +27,7 @@
 <?php require('inc/header.php') ?>
 
 <!-- Carousel -->
-<div class="container-fluid px-lg-4 mt-4">
+<div class="container-fluid px-lg-4 mt-4 mb-3">
  <div class="swiper swiper-container">
     <div class="swiper-wrapper">
       <?php 
