@@ -16,7 +16,7 @@
                             <a class="nav-link text-white" href="dashboard.php">Dashboard</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="features_facilities.php">Features & Facilities</a>
+                            <a class="nav-link text-white" href="featurs.php">Features & Facilities</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="user_queries.php">User Queries</a>
